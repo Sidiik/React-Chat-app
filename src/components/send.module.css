@@ -1,0 +1,20 @@
+.form {
+  width: 50%;
+  margin: auto;
+  margin-top: 2rem;
+  position: sticky;
+  bottom: 0;
+  border: 2px solid #395dff;
+  padding: 1rem;
+  border-radius: 0.33rem;
+  background-color: white;
+}
+.sendForm {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.input {
+  flex-basis: 90%;
+}
